@@ -5,6 +5,7 @@ Super-simple online contact management app
 Wymagania:
 Ąby zapewnić prawidłowe działanie aplikacji potrzebna jest pusta baza danych PostgreSQL o nazwie "kontakty"
 Ponadto, potrzebny jest użytkownik o nazwie "postgres" i haśle "000000"
+(Istnieje możliwość zmiany nazwy i hasła poprzez zmianę zawartości pliku "contacts\src\main\resources\application.properties". Wymaga przekompilowania aplikacji)
 
 Uruchomienie:
 Należy aktywować plik contacts.jar z konsoli używając polecenia "java -jar contacts.jar"
