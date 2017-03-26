@@ -5,7 +5,7 @@
 
 	<groupId>com.contacts</groupId>
 	<artifactId>contacts</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0 Contacts</version>
 	<packaging>jar</packaging>
 
 	<name>contacts</name>
@@ -59,6 +59,12 @@
 			<artifactId>postgresql</artifactId>
 			<version>42.0.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+			<version>1.5.2.RELEASE</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
