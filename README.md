@@ -20,3 +20,4 @@ Danego nowego użytkownika (oraz nowe dane edytowanego użytkownika) należy wpi
 
 W widoku Kontakty widzimy jedynie kontakty użytkownika przez którego zalogowaliśmy się do aplikacji.
 Dodawanie i edytowanie kontaktów odbywa się tak samo jak w przypadku użytkowników, z tą różnicą, że wszystkie pola poza imieniem i nazwiskiem mogą przyjąc wartość pustą (null)
+W polu "birthday" należy wpisać datę w formacie "YYYY-MM-DD"
